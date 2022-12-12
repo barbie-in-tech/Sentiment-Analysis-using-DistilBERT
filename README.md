@@ -12,6 +12,12 @@ dataset = load_dataset("tweet_eval", "sentiment")
 ```
 There are many options available instead of 'sentiment', like 'positive', 'emoji' etc
 
+## Usage
+Import the required libraries on Jupyter Notebook using
+```
+conda install -r requirements.txt
+```
+
 
 ## Contributing
 
